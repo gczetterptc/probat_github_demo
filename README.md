@@ -1,2 +1,1 @@
-Demo repo for Probat.
-.
+Demo repo for Probat
