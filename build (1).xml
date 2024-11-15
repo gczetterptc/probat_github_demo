@@ -7,7 +7,7 @@
 	<target name="clean">
 		<delete dir="build" />
 	</target>
-// Made changes to the build.xml file
+// Made changes to the build.xml files
 // ASdaaaaaa
 	<target name="compile">
 		<mkdir dir="build/classes" />
